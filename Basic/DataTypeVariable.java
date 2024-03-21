@@ -24,7 +24,7 @@ public class DataTypeVariable {
         char c='趙';
         System.out.println(c);
         // 字串：可以包含零到多個字元
-        String s="趙子棋被我肛";
+        String s="趙子棋很美麗";
         System.out.println(s);
         s="小趙好漂亮";
         System.out.println(s);
